@@ -1,0 +1,32 @@
+{
+  "name": "qlanir-web-app",
+  "version": "0.0.1",
+  "authors": [
+    "baio <max.putilov@gmail.com>"
+  ],
+  "description": "qlanir application",
+  "main": "www/index.html",
+  "keywords": [
+    "qlanir",
+    "content",
+    "managment",
+    "crm",
+    "contacts",
+    "people",
+    "links"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "knockoutjs": "~3.0.0",
+    "requirejs": "~2.1.10",
+    "bootstrap": "~3.0.3"
+  }
+}

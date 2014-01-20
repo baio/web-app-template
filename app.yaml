@@ -1,0 +1,11 @@
+dev:
+  server:
+    base : "www"
+    port : 8000
+test:
+  server:
+    base : "www"
+    port : 7777
+    port_once : 7778
+  current_spec_path: 'tests/zombie/specs/defaultTests.coffee'
+  all_specs_path: 'tests/**/specs/**/*.coffee'

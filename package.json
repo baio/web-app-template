@@ -1,0 +1,21 @@
+{
+  "name": "qlanir-web-app",
+  "version": "0.0.1",
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.2.x"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "zombie": "~2.0.0",
+    "node-static": "~0.7.3",
+    "grunt-mocha-test": "~0.8.1",
+    "should": "~2.1.1",
+    "grunt-contrib-connect": "~0.5.0",
+    "grunt-bower-postinst": "~0.2.1",
+    "grunt-bower-task": "~0.3.4",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-coffee": "~0.8.2",
+    "coffee-script": "~1.6.3"
+  }
+}
